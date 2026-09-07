@@ -7,4 +7,4 @@ vless://08125d23-5500-41ae-97ef-8398eaf70562@hikvision-plus.com:2053?path=%2F%40
 vless://9716a2df-de61-4fc0-ae6e-76a6e3d15cc7@91.107.162.153:5867?security=tls&alpn=h2&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=smartgerman.liacloudsm.ir#7
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?security=&encryption=none&type=grpc&serviceName=security.debian.org#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%B7
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&security=&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%BA%F0%9F%87%BF
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3

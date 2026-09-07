@@ -1,4 +1,4 @@
-vless://a8eabfe5-0140-4fbf-a3b1-7f807d879f79@145.63.132.218:59726?security=reality&encryption=none&pbk=7gvZqfl2U6DhRaaT6WAttHQSuVXrvuoVUDwuTvVhzmk&headerType=none&fp=chrome&spx=%2F0d696d59d83a232&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=2050c0ac613e#1
+trojan://humanity@191.96.94.226:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20%2816%29
 vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443?mode=gun&security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&fp=chrome&type=grpc&serviceName=grpc&sni=gp1.steptofsvo.com&sid=5c766813929a1fdd#2
 vless://38d3c1cb-f44e-45d5-b249-6341f1f10728@5.75.206.185:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=adg.sws.applespeed.ir&headerType=http&type=tcp#3
 vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443?mode=gun&security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&fp=chrome&type=grpc&serviceName=grpc&sni=gp1.steptofsvo.com&sid=5c766813929a1fdd#4
